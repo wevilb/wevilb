@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is $wevilb and I like Node.js" />
+  <img height="50" alt="My Name is $wevilb and I like Node.js" src="images/giphy (1).gif" />
   <br />
   <br />
 
