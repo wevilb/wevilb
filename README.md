@@ -21,7 +21,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="images/mo,small,flatlay,product_square,600x600 (1).jpg">
 </a>
 </p>
 
