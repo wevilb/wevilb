@@ -14,7 +14,7 @@
 <tr>
 <td align="center">
 <a href="">
-<strong>Visit my personal website </strong>
+<strong>check out my youtube channel </strong>
 <br />
 <br />
 <br />
