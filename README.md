@@ -36,7 +36,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="images/giphy.gif"> 
+
 </a>
 </p>
 
