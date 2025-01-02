@@ -27,7 +27,7 @@
 
 </td>
 
-
+<img height="100" alt="Music" src="images/giphy.gif"> 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=8GW6sLrK40k">
 <strong>Listen to cool music</strong>
