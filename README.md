@@ -33,7 +33,7 @@
 <strong>Listen to cool music</strong>
 <br />
 <br />
-
+<img height="100" alt="Music" src="images/giphy.gif"> 
 
 <p>
 
