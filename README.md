@@ -44,9 +44,7 @@
 </tr>
 </table>
 
-<div align="center">
-<a href=""><img src=""></a> 
-</div>
+
 
 <!-- Guestbook -->
 
