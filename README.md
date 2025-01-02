@@ -10,42 +10,6 @@
 </div>
 
 <!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://youtube.com/@wevilb">
-<strong>check out my youtube channel </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/mo,small,flatlay,product_square,600x600 (1).jpg">
-</a>
-</p>
-
-</td>
-
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=8GW6sLrK40k">
-<strong>Listen to cool music</strong>
-  <img height="100" alt="Music" src="images/giphy.gif"> 
-<br />
-<br />
-<img height="100" alt="Music" src="images/giphy.gif"> 
-
-<p>
-
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-
 
 <!-- Guestbook -->
 
