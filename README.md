@@ -3,7 +3,7 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is $wevilb and I like Node.js" src="images/giphy (1).gif" />
+  <img height="100" alt="My Name is $wevilb and I like Node.js" src="images/giphy (1).gif" />
   <br />
   <br />
 
